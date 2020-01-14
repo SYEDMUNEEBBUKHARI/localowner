@@ -9,7 +9,7 @@ import {FaStamp ,FaFileContract} from 'react-icons/fa';
 
 import {MdVerifiedUser} from 'react-icons/md'
  import {GiHouseKeys} from 'react-icons/gi'
-
+import {TiThMenu} from 'react-icons/ti'
 
 
 const Style = styled.div`
@@ -51,7 +51,7 @@ i.fa {
 function Io(){
 return(
     <Style >
-        <Jumbotron  className="bg-light !important">
+        <Jumbotron  className="bg-light !important ">
        <h1 className="text-center" id="turn">Services</h1>
 
    <Row noGutters={true} className="mre">

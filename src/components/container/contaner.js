@@ -9,40 +9,29 @@ import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 
 
 const Style = styled.div`
-
-
 .jumbo{
 background: url(${Climage}) no-repeat fixed ; 
-
 background-size: cover;
 height: 900px;
-
 background-positon: center; 
 filter: alpha(opacity=30);
-
-
-
 }
 .fonto{
 font-family: Robot-condensed;
 font-size: 72px;
 margin-top: 45px;
     }
-
 .sapn1{
     color: #0EAD69
 }
-
 .remove-opacity{
     opacity: 15;
     color:green;
 }
 .wiwi{
-
     max-width: 100%;
     background-color: blue;
 }
-
 `
 function Cont(){
 return(

@@ -1,0 +1,17 @@
+.btncolor{
+    border-style: none;
+    border-color: #0EAD69 !important;
+    background-color: #0EAD69 !important;
+    
+}
+.btncolor:hover{ border-style: none;
+    border-color: #0EAD69 !important;
+    background-color: #0EAD69 !important;}
+.btncolor:active{ border-style: none;
+    border-color: #0EAD69 !important;
+    background-color: #0EAD69 !important;}
+
+.btncolor:visited{ border-style: none;
+    border-color: #0EAD69 !important;
+    background-color: #0EAD69 !important;}
+
